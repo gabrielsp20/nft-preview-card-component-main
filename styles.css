@@ -157,9 +157,9 @@ h1:hover{
 }
 
 
-@media (min-width: 1300px){
+@media (min-width: 1200px){
     .container{
-        margin: 60px auto;
+        margin: 70px auto;
     }
 }
 
